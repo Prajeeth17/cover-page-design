@@ -193,7 +193,7 @@ Add images and other contents using CSS record a screenshot of it.
 ![cop](/img/cop.png)
 
 ## Server Output:
-![sop](/img/sop.png)
+![sop](/img/sop.jpg)
 
 ## Result:
 The program for designing book cover page using HTML and CSS is executed successfully.
